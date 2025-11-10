@@ -4,7 +4,7 @@
 [![Claude Code Projects Index](https://img.shields.io/badge/View-Claude%20Code%20Projects-blue)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
 [![Master Index](https://img.shields.io/badge/View-Master%20Index-green)](https://github.com/danielrosehill/Github-Master-Index)
 
-A comprehensive workspace for conducting media monitoring and gathering articles into a well-defined structured data format.
+Workspace template for conducting media monitoring and gathering articles into a well-defined structured data format.
 
 ## Purpose
 

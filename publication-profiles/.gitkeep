@@ -1,0 +1,11 @@
+# Publication Profiles Directory
+
+This directory contains comprehensive profiles for publications including:
+- Editorial bias and political leaning
+- Circulation and reach data
+- Credibility indicators
+- Content characteristics
+- Metadata for article enrichment
+
+Each publication has a JSON file: {publication_id}.json
+Profiles are created by the publication-profiler agent.
