@@ -1,5 +1,9 @@
 # Claude News Fetcher - Media Monitoring System
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Project-8A2BE2)](https://github.com/anthropics/claude-code)
+[![Claude Code Projects Index](https://img.shields.io/badge/View-Claude%20Code%20Projects-blue)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Master Index](https://img.shields.io/badge/View-Master%20Index-green)](https://github.com/danielrosehill/Github-Master-Index)
+
 A comprehensive workspace for conducting media monitoring and gathering articles into a well-defined structured data format.
 
 ## Purpose
@@ -204,3 +208,7 @@ git push
 ---
 
 **Ready to start?** Run `/setup-monitoring` to configure your media monitoring workspace.
+
+---
+
+To view an index of my Claude Code related projects, [click here](https://github.com/danielrosehill/Claude-Code-Repos-Index)
